@@ -1,0 +1,18 @@
+clasa Student are:
+	-ca si atribute: nume, adresa, nrTelefon, email, IDstudent, Narator.
+	-ca si operatii: esteEligibilInScriere, getSeminariiAlese
+
+clasa Inscriere are:
+	-ca si atribute: notePrimite.
+	-ca si operatii: getMediaZ, getNotaFinala.
+
+clasa Seminar are:
+	-ca si atribute: nume, IDseminar, taxe.
+	-ca si operatii: addStudent, dropStudent.
+
+clasa Student are:
+	-ca si atribute: nume, adresa, nrTelefon, email, salar.
+
+Asociere uni-directionala intre Clasa Student si Inscriere
+Asociere uni-directionala intre Clasa Seminar si Student
+Asociere bi-directionala intre Clasa Seminar si Profesor

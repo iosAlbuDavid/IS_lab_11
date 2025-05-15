@@ -1,0 +1,23 @@
+Caz de utilizare: Anuare rezervare
+1 AFISEAZA LISTA REZERVARILOR
+Sistemul afiseaza un ecran cu toate rezervarile facute de acel client.
+2 INTRODUCE REZERVARE DE ANULAT
+Clientul introduce rezervarea pe care doreste sa o anuleze
+3 MOTIV ANULARE REZERVARE
+Clientul introduce motivul anularii.
+4 AFISEAZA PRET TAXA ANULARE
+Clientul este informat in legatura cu taxa de anulare a rezervatii. 
+5 ACCEPT PRET TAXA ANULARE
+Clientul accepta taxa si confirma plata
+6 RETURNARE BANI 
+Sistemul returneaza banii clientului minus diferenta de taxa de anulare.
+7 CONFIRMARE ANULARE REZERVARE
+Sistemul trimite un email clientului ca s-a efectuat bine anularea rezervarii
+
+
+
+Caz de utilizare: Vizualizare rezervare
+1 ACCESARE REZERVAREI
+Clientul acceseaza un buton care il trimite pe un ecran nou.
+2 VIZUALIZARE REZERVARI
+Clientul poate vizualiza toate rezervarile pe care le-a facut

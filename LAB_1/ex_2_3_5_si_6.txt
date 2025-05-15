@@ -1,0 +1,49 @@
+2. UML (Unified Modeling Language) este un limbaj de modelare vizuală care este utilizat in inginerie software. UML este utilizat la proiectarea structurii sistemului software, la documentarea unui proiect.
+
+3. Modelele sunt reprezentări abstracte ale unui sistem sau ale unui proces care pune accentul pe esență, lăsând la o parte detaliile irelevante. Modelele sunt folosite pentru a descrie structura, comportamentul și interacțiunile unui sistem software. Modelele ajută la planificare, proiectare și documentarea unui proiect.
+
+5. Diagrame de structură:
+        - Diagrama de clasă 
+        - Diagrama de obiecte 
+        - Diagrama de pachete
+        - Diagrama de componente
+        - Diagrama de structură compozițională 
+        - Deployment Diagram
+        - Diagrama de profil
+     Diagrame de comportament:
+        -  Diagrama de cazuri de utilizare
+        - Diagrama mașinii de stare
+        - Diagrama de activități
+        - Diagrama de secvență 
+        - Diagrama de comunicare
+        - Diagrama de timp 
+        - Interaction Overview Diagram 
+Asemănări Diagrame de structură vs comportament:
+    - Ambele diagrame sunt folosite pentru a descrie sisteme software.
+    - sunt folosite la comunicarea între membrii echipei 
+    - sunt folosite pentru a documenta sistemul
+Diferențe Diagrame de structură vs comportament:
+    - cele de structură se axează pe aspecte statice ale sistemului ( ex: clase, obiecte, componente și relațiile dintre ele).
+    - cele de comportament se axează pe aspectele dinamice ale sistemului (ex: fluxul de activități, interacțiunile dintre obiecte și schimbările de stare).
+
+
+6)
+• Diagrama de clase:
+    - descrie structura statică a sistemului 
+    - folosită în faza de proiectare 
+    - elemente cheie: clase, atribute, metode și relații 
+• Diagrama de cazuri de utilizare:
+    - descrie funcționalitățile sistemului din perspectiva utilizatorilor și interacțiunea lor cu sistemul
+    - folosită în faza de analiză defini cerințe și scopul sistemului
+    - elemente cheie: Actori, Cazuri de utilizare și relații 
+• Diagrama de activități:
+      - Descrie fluxul de activități și procese într-un sistem 
+      - folosită pentru modelarea proceselor de afaceri
+      - elemente cheie: Activități, decizii, flux de control și bariere de sincronizare
+• Diagrama de secvențe:
+     - descrie interacțiunile dintre obiecte in ordine cronologică 
+     - folosită la modelarea scenariilor complicate, pentru a înțelege mai ușor fluxul de mesaje între obiecte
+     - elemente cheie: obiecte, mesaje, linii de durată 
+• Diagrama mașinii de stare:
+     - descrie stările prin care trece un obiect și tranzițiile dintre aceste stăr
+     - folosită pentru a modela comportamentul unui obiect în timp și pentru a descrie ciclul de viață al obiectului.

@@ -1,0 +1,15 @@
+is_clase
+
+E1:d)
+E2:c), f)
+E3:a), c), g)
+E4:b), d), f)
+E5:b)
+E6:a), d), e)
+E7:c)
+E8:d)
+E9:b), e), g), i)
+E10:b)
+E11:a), d)
+E12:c), d), e)
+E13:c), e)
